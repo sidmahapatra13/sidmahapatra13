@@ -36,8 +36,8 @@ Besides AI/ML, I enjoy playing soccer and love the rain! Here's why:
 ## Connect with Me!
 
 You can reach out to me on:
-- [LinkedIn](https://linkedin.com/in/sidmahapatra13)
-- [Twitter](https://twitter.com/sidmahapatra13)
+- [LinkedIn](https://www.linkedin.com/in/siddhant-mahapatra-a8556b34a/)
+- [Twitter](https://x.com/MeliLmaoHru)
 
 ---
 
