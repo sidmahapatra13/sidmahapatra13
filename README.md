@@ -1,10 +1,44 @@
-# Welcome to My GitHub Profile
+# Welcome to My GitHub Profile!
 
 ## About Me
-I am an IIIT Allahabad student with interests in Artificial Intelligence and Machine Learning. I enjoy exploring the latest technologies in these fields.
+
+👋 Hi there! I'm **sidmahapatra13**, an enthusiastic student at **IIIT Allahabad** with a keen interest in **Artificial Intelligence** and **Machine Learning**.
+
+### Pronouns
+He/Him
+
+---
+
+## My Learning Path
+
+Currently, I am diving deep into the world of data analysis using **Pandas** and **NumPy**. Here’s a glimpse of my journey:
+
+- **Foundations of Data Analysis:** Learning the basics of data manipulation and analysis.
+- **Advanced Data Processing:** Mastering advanced techniques in data analysis with Pandas.
+- **Machine Learning:** Exploring the uses of NumPy for implementing mathematical concepts in ML.
+
+---
 
 ## Personal Interests
-- **Soccer**: A big fan of the game, enjoy playing and watching it!
-- **Rain**: The soothing sound of rain is my favorite background music.
 
-Feel free to explore my repositories and connect with me!
+Besides AI/ML, I enjoy playing soccer and love the rain! Here's why:
+- **Soccer:** A great way to stay active and a passion of mine.
+- **The Rain:** It inspires creativity and brings a soothing ambiance.
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sidmahapatra13&show_icons=true&theme=radical)
+
+---
+
+## Connect with Me!
+
+You can reach out to me on:
+- [LinkedIn](https://linkedin.com/in/sidmahapatra13)
+- [Twitter](https://twitter.com/sidmahapatra13)
+
+---
+
+Thank you for visiting my profile! Feel free to connect or contribute to my projects!
