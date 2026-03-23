@@ -1,16 +1,17 @@
 # README
 
-## Profile
-Restored original profile content.
-
-### Currently Mastering
+## Currently Mastering
+- Java
+- Python
 - TypeScript
 - C/C++
 
-### Personal Interests
+## Personal Interests
+- Traveling
+- Gaming
 - Planning trips on Obsidian
 
-### Expertise Areas
-- DSA with C++ proficiency
+## Expertise Areas
+- Data Structures and Algorithms with C++
 - Electronics & Communication
-- VLSI courses
+- VLSI Courses
