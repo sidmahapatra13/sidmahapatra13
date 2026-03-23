@@ -1,17 +1,16 @@
 # README
 
-## Currently Mastering
+## Profile
+Restored original profile content.
 
+### Currently Mastering
 - TypeScript
 - C/C++
 
-## Personal Interests
-
+### Personal Interests
 - Planning trips on Obsidian
 
-## Expertise Areas
-
+### Expertise Areas
 - DSA with C++ proficiency
 - Electronics & Communication
 - VLSI courses
-
