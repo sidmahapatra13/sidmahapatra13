@@ -16,7 +16,7 @@
 <table>
 <tr>
 <td>
-  <strong>📍 Location:</strong> IIIT Allahabad, India<br>
+  <strong>📍 Location:</strong> Bengaluru, India<br>
   <strong>🎓 Student:</strong> Enthusiastic learner at <strong>IIIT Allahabad</strong><br>
   <strong>🚀 Passion:</strong> <strong>Artificial Intelligence</strong> & <strong>Machine Learning</strong><br>
   <strong>💬 Pronouns:</strong> <strong>He/Him</strong>
