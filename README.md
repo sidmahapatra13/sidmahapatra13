@@ -81,11 +81,11 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sidmahapatra13&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sidmahapatra13&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sidmahapatra13&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=sidmahapatra13&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sidmahapatra13&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sidmahapatra13&layout=compact&theme=radical&hide_border=true&cache_seconds=1800)
 
 </div>
 
