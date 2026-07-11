@@ -1,5 +1,5 @@
 <div align="center">
-# 🌟 Welcome to My GitHub Profile! 
+<h1> 🌟 Welcome to My GitHub Profile! </h1>
 </div>
 
 <div align="center">
