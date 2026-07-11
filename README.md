@@ -1,4 +1,4 @@
-# 🌟 Welcome to My GitHub Profile!
+<div align="center"> # 🌟 Welcome to My GitHub Profile! </div>
 
 <div align="center">
 
