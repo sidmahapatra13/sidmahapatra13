@@ -17,17 +17,17 @@
 <tr>
 <td valign="top" width="50%">
 
-📍 **Location:** Bengaluru, India
-🎓 **Student:** Enthusiastic learner
-🚀 **Passion:** Artificial Intelligence & Machine Learning
+📍 **Location:** Bengaluru, India<br>
+🎓 **Student:** Enthusiastic learner<br>
+🚀 **Passion:** Artificial Intelligence & Machine Learning<br>
 💬 **Pronouns:** He/Him
 
 </td>
 <td valign="top" width="50%" align="center">
 
-🎯 Constantly learning 🎯
-🌱 Growing as a developer 🌱
-💡 Building innovative solutions 💡
+🎯 Constantly learning 🎯<br>
+🌱 Growing as a developer 🌱<br>
+💡 Building innovative solutions 💡<br>
 🔧 Exploring new technologies 🔧
 
 </td>
