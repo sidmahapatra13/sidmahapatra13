@@ -103,7 +103,7 @@
 
 ![GitHub Stats](https://readme-stats-wheat.vercel.app/api?username=sidmahapatra13&show_icons=true&theme=radical&hide_border=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sidmahapatra13&theme=radical&hide_border=true)
-![Top Languages](./assets/top-langs.svg)
+![Top Languages](https://readme-stats-wheat.vercel.app/api/top-langs/?username=sidmahapatra13&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
