@@ -108,7 +108,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidmahapatra13&layout=compact&theme=radical&hide_border=true" alt="Siddhant Mahapatra's Top Languages" />
+  <img src="./assets/top-langs.svg" alt="Siddhant Mahapatra's Top Languages" />
 </p>
 
 <br>
