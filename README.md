@@ -99,13 +99,17 @@
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-stats-wheat.vercel.app/api?username=sidmahapatra13&show_icons=true&theme=radical&hide_border=true" alt="Siddhant Mahapatra's GitHub Stats" />
+</p>
 
-![GitHub Stats](https://readme-stats-wheat.vercel.app/api?username=sidmahapatra13&show_icons=true&theme=radical&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sidmahapatra13&theme=radical&hide_border=true)
-![Top Languages](https://readme-stats-wheat.vercel.app/api/top-langs/?username=sidmahapatra13&layout=compact&theme=radical&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sidmahapatra13&theme=radical&hide_border=true" alt="Siddhant Mahapatra's GitHub Streak" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidmahapatra13&layout=compact&theme=radical&hide_border=true" alt="Siddhant Mahapatra's Top Languages" />
+</p>
 
 <br>
 
