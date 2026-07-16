@@ -74,11 +74,11 @@ I like treating algorithms as a way to think clearly under constraints: breaking
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/LeetCode-33%20solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=111827" alt="LeetCode solved" />
+<img src="https://img.shields.io/badge/LeetCode-50%20solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=111827" alt="LeetCode solved" />
 <br />
-<img src="https://geps.dev/progress/33?dangerColor=EF4444&warningColor=F59E0B&successColor=22D3EE" alt="LeetCode progress: 33 out of 100" />
+<img src="https://geps.dev/progress/50?dangerColor=EF4444&warningColor=F59E0B&successColor=22D3EE" alt="LeetCode progress: 50 out of 100" />
 <br />
-<sub>33 / 100 milestone</sub>
+<sub>50 / 100 milestone</sub>
 
 </div>
 
