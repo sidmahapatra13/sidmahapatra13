@@ -93,11 +93,6 @@ I like treating algorithms as a way to think clearly under constraints: breaking
 06  agentic AI systems and tool-using models
 07  algorithms, complexity, and efficient computation
 ```
-
-### Current trajectory
-
-I am strengthening the fundamentals with Python, NumPy, pandas, scikit-learn, algorithms, and notebooks while moving toward TensorFlow/Keras and deeper neural network theory. The goal is simple: read the paper, understand the math, build the mechanism, solve the problem, repeat.
-
 ---
 
 <div align="center">
