@@ -85,7 +85,7 @@ I like treating algorithms as a way to think clearly under constraints: breaking
 
 ```txt
 01  training dynamics & generalization (optimization, regularization, overfitting)
-02  representation learning & interpretability (incl. CNNs/vision)
+02  representation learning & mechanistic interpretability (incl. CNNs/vision)
 03  efficient computation — algorithms, complexity, hardware-aware ML
 04  agentic AI — tool-using, autonomous systems
 ```
