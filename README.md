@@ -44,7 +44,6 @@ sid = {
 - moving from classic ML into deep learning
 - solving algorithmic problems consistently
 - reading research papers in ML/DL
-- turning concepts into small experiments
 - getting better at clean Python notebooks
 
 </td>
