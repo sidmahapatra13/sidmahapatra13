@@ -85,13 +85,10 @@ I like treating algorithms as a way to think clearly under constraints: breaking
 ### Research I am interested in
 
 ```txt
-01  neural network optimization + training dynamics
-02  representation learning
-03  CNNs and visual recognition
-04  generalization, regularization, and overfitting
-05  interpretability in machine learning
-06  agentic AI systems and tool-using models
-07  algorithms, complexity, and efficient computation
+01  training dynamics & generalization (optimization, regularization, overfitting)
+02  representation learning & interpretability (incl. CNNs/vision)
+03  efficient computation — algorithms, complexity, hardware-aware ML
+04  agentic AI — tool-using, autonomous systems
 ```
 ---
 
