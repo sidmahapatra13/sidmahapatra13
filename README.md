@@ -1,20 +1,22 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Siddhant+Mahapatra;Machine+Learning+%2F+Deep+Learning;Algorithmic+Computing;Neural+Nets+from+First+Principles;Reading+Papers+%E2%86%92+Building+Things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Siddhant+Mahapatra;ECE+Student+%E2%86%92+Machine+Learning;Neural+Nets+from+First+Principles;Reading+Papers+%E2%86%92+Building+Things" alt="Typing SVG" />
 
 <br />
 
 <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=22D3EE" alt="Python" />
+<img src="https://img.shields.io/badge/C%2B%2B-111827?style=for-the-badge&logo=cplusplus&logoColor=60A5FA" alt="C++" />
 <img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=60A5FA" alt="NumPy" />
 <img src="https://img.shields.io/badge/pandas-111827?style=for-the-badge&logo=pandas&logoColor=A78BFA" alt="pandas" />
 <img src="https://img.shields.io/badge/scikit--learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=F59E0B" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/PyTorch-111827?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
 <img src="https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow&logoColor=F97316" alt="TensorFlow" />
-<img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" />
+<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
 
 <br />
 <br />
 
-<code>student • builder • ML/DL • algorithms • agents</code>
+<code>ECE student • ML/DL • algorithms • agents</code>
 
 </div>
 
@@ -28,10 +30,10 @@
 
 ```python
 sid = {
+    "studying": "Electronics & Communication Eng.",
     "location": "Bengaluru, India",
-    "focus": ["ML", "DL", "algorithms", "AI agents"],
+    "focus": ["ML/DL", "algorithms", "AI agents"],
     "style": "learn the math, then build it",
-    "current_mode": "papers + problems + prototypes"
 }
 ```
 
@@ -41,7 +43,7 @@ sid = {
 ### `now.md`
 
 - building intuition for neural networks
-- moving from classic ML into deep learning
+- pulling signals & systems intuition into ML
 - solving algorithmic problems consistently
 - reading research papers in ML/DL
 - getting better at clean Python notebooks
@@ -50,53 +52,21 @@ sid = {
 </tr>
 </table>
 
-### Interests
-
-<table>
-<tr>
-<td align="center" width="25%"><b>ML foundations</b><br /><sub>models, metrics, pipelines</sub></td>
-<td align="center" width="25%"><b>Deep learning</b><br /><sub>nets, gradients, training</sub></td>
-<td align="center" width="25%"><b>Algorithms</b><br /><sub>DSA, patterns, complexity</sub></td>
-<td align="center" width="25%"><b>AI agents</b><br /><sub>tools, workflows, automation</sub></td>
-</tr>
-<tr>
-<td align="center"><b>Computer vision</b><br /><sub>CNNs, images, patterns</sub></td>
-<td align="center"><b>NumPy builds</b><br /><sub>from-scratch implementations</sub></td>
-<td align="center"><b>Research papers</b><br /><sub>reading, notes, replication</sub></td>
-<td align="center"><b>Developer tools</b><br /><sub>small useful systems</sub></td>
-</tr>
-</table>
-
 ### Algorithmic computing
 
 I like treating algorithms as a way to think clearly under constraints: breaking problems into states, transitions, invariants, tradeoffs, and complexity. LeetCode is where I practice that loop: start brute force, find the structure, tighten the solution.
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/LeetCode-50%20solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=111827" alt="LeetCode solved" />
-<br />
-<img src="https://geps.dev/progress/50?dangerColor=EF4444&warningColor=F59E0B&successColor=22D3EE" alt="LeetCode progress: 50 out of 100" />
-<br />
-<sub>50 / 100 milestone</sub>
-
-</div>
 
 ### Research I am interested in
 
 ```txt
 01  training dynamics & generalization (optimization, regularization, overfitting)
 02  representation learning & mechanistic interpretability (incl. CNNs/vision)
-03  efficient computation — algorithms, complexity, hardware-aware ML
+03  efficient computation — hardware-aware ML, complexity, ML on the edge
 04  agentic AI — tool-using, autonomous systems
 ```
+
 ---
 
 <div align="center">
-
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200" height="150" alt="coding cat" />
-
-<br />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=520&lines=Thank+you+for+visiting!;Keep+building.+Keep+learning." alt="Thank you for visiting" />
-
+<sub>Keep building. Keep learning.</sub>
 </div>
