@@ -10,7 +10,6 @@
 <img src="https://img.shields.io/badge/pandas-111827?style=for-the-badge&logo=pandas&logoColor=A78BFA" alt="pandas" />
 <img src="https://img.shields.io/badge/scikit--learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=F59E0B" alt="scikit-learn" />
 <img src="https://img.shields.io/badge/PyTorch-111827?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
-<img src="https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow&logoColor=F97316" alt="TensorFlow" />
 <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
 
 <br />
