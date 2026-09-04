@@ -58,7 +58,7 @@ I like treating algorithms as a way to think clearly under constraints: breaking
 
 ### Cloud & deployment
 
-Almost everything I have trained so far has lived and died inside a notebook, which is a bad place for it to stay. I am working through Google Cloud fundamentals — compute, storage, IAM, and the path from a trained model to something with an endpoint in front of it — so the things I build can run somewhere other than my laptop. Training a model and shipping a model turn out to be quite different skills, and I would like both.
+Almost everything I have trained so far has lived and died inside a notebook, which is a bad place for it to stay. I am working through Google Cloud fundamentals like compute, storage, IAM, and the path from a trained model to something with an endpoint in front of it so the things I build can run somewhere other than my laptop. Training a model and shipping a model turn out to be quite different skills, and I would like both.
 
 ### Research I am interested in
 
