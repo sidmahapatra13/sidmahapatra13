@@ -11,6 +11,7 @@
 <img src="https://img.shields.io/badge/scikit--learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=F59E0B" alt="scikit-learn" />
 <img src="https://img.shields.io/badge/PyTorch-111827?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
 <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+<img src="https://img.shields.io/badge/Google%20Cloud-111827?style=for-the-badge&logo=googlecloud&logoColor=4285F4" alt="Google Cloud" />
 
 <br />
 <br />
@@ -46,6 +47,7 @@ sid = {
 - solving algorithmic problems consistently
 - reading research papers in ML/DL
 - getting better at clean Python notebooks
+- learning Google Cloud so models can leave the notebook
 
 </td>
 </tr>
@@ -54,6 +56,10 @@ sid = {
 ### Algorithmic computing
 
 I like treating algorithms as a way to think clearly under constraints: breaking problems into states, transitions, invariants, tradeoffs, and complexity. LeetCode is where I practice that loop: start brute force, find the structure, tighten the solution.
+
+### Cloud & deployment
+
+Almost everything I have trained so far has lived and died inside a notebook, which is a bad place for it to stay. I am working through Google Cloud fundamentals — compute, storage, IAM, and the path from a trained model to something with an endpoint in front of it — so the things I build can run somewhere other than my laptop. Training a model and shipping a model turn out to be quite different skills, and I would like both.
 
 ### Research I am interested in
 
